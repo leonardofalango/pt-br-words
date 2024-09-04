@@ -10,14 +10,14 @@ Ashe
 Aurelion Sol
 Azir
 Bard
-Bel’Veth
+BelVeth
 Blitzcrank
 Brand
 Braum
 Caitlyn
 Camille
 Cassiopeia
-Cho’Gath
+ChoGath
 Corki
 Darius
 Diana
@@ -48,7 +48,7 @@ Jax
 Jayce
 Jhin
 Jinx
-Kai’Sa
+KaiSa
 Kalista
 Karma
 Karthus
@@ -57,15 +57,14 @@ Katarina
 Kayle
 Kayn
 Kennen
-Kha’Zix
+KhaZix
 Kindred
 Kled
-Kog’Maw
+KogMaw
 LeBlanc
 Lee Sin
 Leona
 Lillia
-Lina
 Lissandra
 Lucian
 Lulu
@@ -93,7 +92,7 @@ Pyke
 Quinn
 Rakan
 Rammus
-Rek’Sai
+RekSai
 Renekton
 Rengar
 Riven
@@ -132,7 +131,7 @@ Urgot
 Varus
 Vayne
 Veigar
-Vel’Koz
+VelKoz
 Vex
 Vi
 Viktor
@@ -155,7 +154,6 @@ Zoe
 Zyra
 
 Adaga de Doran
-Aegis da Legião
 Anjo Guardião
 Arco de Runan
 Botas de Berserker
@@ -174,48 +172,29 @@ Manopla de Poro
 Máscara do Vazio
 Poção de Vida
 Quebra-cascos
+Liandry
 Rylai
 Redenção
-Sentinela de Iluminação
-Tenda de Caçador
-Túnica de Doran
 Último Suspiro
-Valor das Sombras
-Itens de Defesa
 Mascara Abissal
 Amuleto de Vida
 Armadura de Espinhos
 Coração Congelado
 Colete de Vida
 Escudo de Aegis
-Escudo de Pedra
-Elmo de Ferro
-Elmo do Vazio
-Espada de Lamento
-Feitiço de Cura
 Força da Trindade
-Guarda-Costas
 Manopla do Gigante
 Máscara Abissal
 Máscara do Vazio
-Pacto de Rylai
-Vestimenta de Vigor
-Abóbada de Cristal
 Aegis da Legião
 Anel de Doran
 Bastão das Eras
 Bota de Feiticeiro
 Cajado do Vazio
-Capacete de Solari
-Coração de Rylai
 Colhedor de Essência
-Cria de Invocador
-Dente de Rancor
-Elmo do Vazio
+portal de zzrot
 Escudo de Pedra
-Máscara Abissal
-Máscara do Vazio
-Gema
+Gema ardente
 Warmog
 Capa de Fogo Solar
 Armadura de espinhos
